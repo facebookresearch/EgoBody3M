@@ -1,4 +1,19 @@
-# EgoBody3M
+<p align="center">
+  <h2 align="center">EgoBody3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset</h2>
+
+  <p align="center">
+    Amy Zhao ·
+    Chengcheng Tang ·
+    Lezi Wang ·
+    Yijing Li ·
+    Mihika Dave ·
+    Lingling Tao ·
+    Christopher D. Twigg ·
+    Robert Y. Wang
+  </p>
+
+  <h3 align="center">ECCV 2024</h3>
+</p>
 
 Accurate tracking of a user's body pose while wearing a virtual reality (VR), augmented reality (AR) or mixed reality (MR) headset is a prerequisite for authentic self-expression, natural social presence, and intuitive user interfaces through body parts in VR/AR.
 Existing body tracking approaches on VR/AR devices are either under-constrained, e.g., attempting to infer full body pose from only headset and controller pose, or require impractical hardware setups that place cameras far from a user's face to improve body visibility.
