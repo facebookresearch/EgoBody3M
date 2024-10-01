@@ -7,6 +7,17 @@
   <h3 align="center">ECCV 2024</h3>
 </p>
 
+<p align="center">
+  <a href='https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10261.pdf'>
+    <img src='https://img.shields.io/badge/Paper-PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoWidth=20&logoColor=white&labelColor=66cc00&color=94DD15' alt='Paper PDF'>
+  </a>
+  <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10261-supp.pdf">
+    <img src='https://img.shields.io/badge/Supplementary_Materials-PDF-ADD8E6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xOSAzSDVjLTEuMSAwLTIgLjktMiAydjE0YzAgMS4xLjkgMiAyIDJoMTRjMS4xIDAgMi0uOSAyLTJWNWMwLTEuMS0uOS0yLTItMnpNOSAxN0g3di01aDJ2NXptNCAwaC0ydi03aDJ2N3ptNCAwaC0yVjhoMnY5eiIvPjwvc3ZnPg==&logoColor=white&labelColor=87CEEB&color=ADD8E6' alt='Supplementary Materials'>
+  </a>
+  <a href='https://www.youtube.com/watch?v=yTM44W3acGw'>
+    <img src='https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF3737' alt='Video'>
+  </a>
+</p>
 
 # Abstract
 
