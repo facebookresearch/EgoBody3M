@@ -1,24 +1,24 @@
 <p align="center">
-  <h2 align="center">EgoBody3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset</h2>
-
+  <h2 align="center">EgoBody3M<br>Egocentric Body Tracking on a VR Headset using a Diverse Dataset</h2>
   <p align="center">
-    Amy Zhao ·
-    Chengcheng Tang ·
-    Lezi Wang ·
-    Yijing Li ·
-    Mihika Dave ·
-    Lingling Tao ·
-    Christopher D. Twigg ·
-    Robert Y. Wang
+    Amy Zhao · Chengcheng Tang · Lezi Wang · Yijing Li<br>
+    Mihika Dave · Lingling Tao · Christopher D. Twigg · Robert Y. Wang
   </p>
-
   <h3 align="center">ECCV 2024</h3>
 </p>
+
+
+# Abstract
 
 Accurate tracking of a user's body pose while wearing a virtual reality (VR), augmented reality (AR) or mixed reality (MR) headset is a prerequisite for authentic self-expression, natural social presence, and intuitive user interfaces through body parts in VR/AR.
 Existing body tracking approaches on VR/AR devices are either under-constrained, e.g., attempting to infer full body pose from only headset and controller pose, or require impractical hardware setups that place cameras far from a user's face to improve body visibility.
 In this paper, we present the first controller-less egocentric body tracking solution that runs on an actual VR device using the same cameras used for SLAM tracking. We propose a novel egocentric tracking architecture that models the temporal history of body motion using multi-view latent features.
 Furthermore, we release the first large-scale real-image dataset for egocentric body tracking, EgoBody3M, with a realistic VR headset configuration and diverse subjects and motions. Benchmarks on the dataset shows that our approach outperforms other state-of-the-art methods in both accuracy and smoothness of the resulting motion.  We perform ablation studies on our model choices and demonstrate the method running in realtime on a VR headset. Our dataset with more than 30 hours of recordings and 3 million frames will be made publically available.
+
+<p align="center">
+  <img src="assets/poster.png" width="1000" />
+</p>
+
 
 # Dataset
 
